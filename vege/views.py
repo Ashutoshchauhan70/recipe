@@ -111,4 +111,5 @@ def  register(request):
           return redirect('/login/')
      
 
-     return render(request,'register.html')
+     return render(request,'register.html')   
+
